@@ -8368,7 +8368,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"cacache@npm:^18.0.0, cacache@npm:^18.0.4":
+"cacache@npm:^18.0.0":
   version: 18.0.4
   resolution: "cacache@npm:18.0.4"
   dependencies:
@@ -14674,14 +14674,14 @@ __metadata:
   linkType: hard
 
 "node-fetch-cache@npm:^5.0.2":
-  version: 5.0.2
-  resolution: "node-fetch-cache@npm:5.0.2"
+  version: 5.1.1
+  resolution: "node-fetch-cache@npm:5.1.1"
   dependencies:
-    cacache: "npm:^18.0.4"
+    cacache: "npm:^20.0.1"
     formdata-node: "npm:^6.0.3"
     locko: "npm:^1.1.0"
     node-fetch: "npm:3.3.2"
-  checksum: 10c0/7e175414cab31c7cac1484cb6716326fae16906b45dd9987f5b491e8d35ca5db2e7d4324caed4a0ac0052f1544e4e785f3e5e115e63d06e3c19c352c37c8483e
+  checksum: 10c0/e586a5722227731820fc229cd942bde94680da4bfa4da1be166d09debfb51fb2cd4f7592212345551d1390821ce8de88dab37ff8d35b28a64a822610d96c918d
   languageName: node
   linkType: hard
 
