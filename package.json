@@ -18,7 +18,7 @@
     "@lerna-lite/cli": "~4.9.0",
     "@lerna-lite/exec": "~4.9.0",
     "@lerna-lite/publish": "~4.9.0",
-    "@lerna-lite/run": "~4.9.0",
+    "@lerna-lite/run": "~5.6.4",
     "@lerna-lite/version": "patch:@lerna-lite/version@npm%3A4.9.4#~/.yarn/patches/@lerna-lite-version-npm-4.9.4-77cc9b6d7e.patch",
     "@types/express": "^4.17.17",
     "@types/node": "~22.9.0",
